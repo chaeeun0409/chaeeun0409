@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
- ![header](https://capsule-render.vercel.app/api?type=wave&color=ffc0cb&height=300&section=header&text=Lee%20Chae%20Eun&fontSize=90%&animation=twinkling&fontColor=fff&fontAlign=60&fontAlignY=40)
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=ffc0cb&height=300&section=header&text=Lee%20Chae%20Eun&fontSize=90%&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40)
 
 <h2 align="center"> 📌Stack </h2>
 <p align="center">
