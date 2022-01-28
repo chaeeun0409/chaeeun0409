@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lee Chae Eun%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc0cb&height=330&section=header&text=Lee%20Chae%20Eun&fontSize=90%&animation=twinkling&fontColor=fff&fontAlign=60&fontAlignY=40)
 <h2 align="center"> 📌Stack </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
