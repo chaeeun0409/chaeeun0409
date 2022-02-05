@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffc0cb&height=250&section=header&text=Lee%20Chae%20Eun&fontSize=90%&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40)
 
 <h3 align="center"> 📌StacK </h3>
-<p align="center">
+<span align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-</p>
+</span>
 
 ![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeun0409&theme=dracula&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaeeun0409&theme=dracula)](https://git.io/streak-stats)
