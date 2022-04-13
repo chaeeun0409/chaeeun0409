@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OrcleDB-F80000?style=flat-square&logo=OrcleDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Orcle-F80000?style=flat-square&logo=OrcleDB&logoColor=white"/></a>
 </p>
 
 ![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeun0409&theme=dracula&show_icons=true)
