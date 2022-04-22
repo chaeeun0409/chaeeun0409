@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"> 📌STACK </h1>
 
-<h1 align="center"> About Me </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
