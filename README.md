@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffc0cb&height=250&section=header&text=Lee%20Chae%20Eun&fontSize=90%&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40)
 
 <h1 align="center"> 📌STACK </h1>
-<h2 align="center">
+<h3 align="center">
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ![Chaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeun0409&theme=dracula&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaeeun0409&theme=dracula)](https://git.io/streak-stats)
-</h2>
+</h3>
 
 
