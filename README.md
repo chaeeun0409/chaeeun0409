@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 <br><br><br>
 
 <a href="https://github.com/chaeeun0409/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&icon_color=20232a&text_color=" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula&hide_border=true&icon_color=20232a&text_color=" width=49.2% />
 </a>
 <a href="https://github.com/chaeeun0409/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=chaeeun0409&theme=dracula&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=chaeeun0409&theme=dracula&currStreakNum=fff&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
 </a>
-<a href="https://github.com/chaeeun0409/github-readme-activity-graph">
+<!-- <a href="https://github.com/chaeeun0409/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=chaeeun0409&theme=react-dracula&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
-</a>
+</a> -->
 <!-- 
 <br><br><br>
 
