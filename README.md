@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a></p>
 
-
-</h3>
 ![chaeeun0409 GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula)
+</h3>
+
 
