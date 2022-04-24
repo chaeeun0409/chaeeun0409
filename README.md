@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/chaeeun0409/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=chaeeun0409&theme=dracula&currStreakNum=fff&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
 </a>
-<!-- <a href="https://github.com/chaeeun0409/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=chaeeun0409&theme=react-dracula&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
-</a> -->
+<a href="https://github.com/chaeeun0409/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=chaeeun0409&theme=dracula&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+</a>
 <!-- 
 <br><br><br>
 
