@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffc0cb&height=250&section=header&text=Lee%20Chae%20Eun&fontSize=90%&animation=twinkling&fontColor=fff&fontAlign=50&fontAlignY=40)
 
-<h1 align="center"> 📌STACKS </h1>
-<h3 align="center">
- 
+<h1 align="center"> 📌STACKS </h1> 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
@@ -32,14 +30,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a></p>
-
-![chaeeun0409 GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula)
-</h3>
 <div align="center">
 <br><br><br>
 
 <a href="https://github.com/chaeeun0409/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula-palenight&hide_border=true&icon_color=E3E3E3A8&text_color=fff" width=49.2% />
 </a>
 <a href="https://github.com/chaeeun0409/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=chaeeun0409&theme=dracula&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
