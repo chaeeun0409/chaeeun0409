@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a></p>
 <div align="center">
-<br><br>
+<br>
 <a href="https://github.com/chaeeun0409/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=chaeeun0409&show_icons=true&theme=dracula&hide_border=true&icon_color=20232a&text_color=" width=49.2% />
 </a>
@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=chaeeun0409&theme=react-dark&bg_color=20232a&hide_border=true&line=ff869e&color=ff869e"width=98%/>
 </a> -->
 <!-- 
-<br><br><br>
+<br>
 
