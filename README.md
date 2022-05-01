@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=chaeeun0409&theme=react-dark&bg_color=20232a&hide_border=true&line=ff869e&color=ff869e"width=98%/>
 </a> -->
 <!-- 
-<br>
+<br><br>
 
